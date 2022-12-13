@@ -2,7 +2,7 @@
 - 👀 I’m interested in graphics and vision.
 - 🌱 I’m currently learning 🐭.
 - 💞️ I’m looking to collaborate on awesoe teams.
-- 📫 How to reach me through qi-001@outlook.com
+- 📫 You can reach me through qi-001@outlook.com
 
 <!---
 bon-qi/bon-qi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
