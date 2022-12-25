@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Qi Zhang, an undergraduate student @USTC🚀.
 - 👀 I’m interested in graphics and vision.
 - 🌱 I’m currently learning 🐭.
-- 💞️ I’m looking to collaborate on awesoe teams.
+- 💞️ I’m looking to collaborate on awesome teams.
 - 📫 You can reach me through qi-001@outlook.com
 
 <!---
