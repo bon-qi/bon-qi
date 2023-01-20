@@ -7,15 +7,7 @@
 ### - Languages and Tools...
 
 Frameworks: 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px">
-<!-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px"> -->
-<img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" alt="Twitter" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Twitter" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px">
 
 APPs:
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px">
