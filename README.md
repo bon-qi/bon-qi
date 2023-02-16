@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Qi Zhang, an undergraduate student 🐒 @USTC 👩🏻‍🔬.
 - 🤹🏼‍♀️ I’m interested in machine learning🤖, graphics 🫖 and vision 👁️.
-- 🌱 I’m currently learning myself🐭 to be a good researcher👨‍🍳.
+- 🌱 I’m currently learning myself🐭 to be a good researcher👨‍🍳, 🤠 a cool space cowboy hacker!
 - 💞️ I’m looking to internship chances!👩‍👩‍👧‍👧
 - 📫 You can reach me through qi-001@outlook.com 🚵‍♀️.
 
