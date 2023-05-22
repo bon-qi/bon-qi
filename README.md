@@ -2,7 +2,7 @@
 - 🤹🏼‍♀️ I’m interested in machine learning🤖, graphics 🫖 and vision 👁️.
 - 🌱 I’m currently learning myself🐭 to be a good researcher👨‍🍳, 🤠 a cool space cowboy hacker!
 - 💞️ I’m looking to internship chances!👩‍👩‍👧‍👧
-- 📫 You can reach me through qizhang2002@mail.ustc.edu.cn 🚵‍♀️.
+- 📫 You can reach me through qizhang2002@mail.ustc.edu.cn 🍺!.
 
 ### - Languages and Tools...
 
